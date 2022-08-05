@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+*.alfredworkflow
+icon.png
+metadata.json

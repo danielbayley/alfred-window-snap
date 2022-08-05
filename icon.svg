@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <style type="text/css">
+    circle { fill: #28C840 }
+    path   { fill: #026200 }
+    line {
+      stroke: #28C840;
+      stroke-width: 144
+    }
+  </style>
+  <circle cx="512" cy="512" r="448"/>
+  <path d="M704,736H320c-17.7,0-32-14.3-32-32V320c0-17.7,14.3-32,32-32h384 c17.7,0,32,14.3,32,32v384C736,721.7,721.7,736,704,736z"/>
+  <line x1="736" y1="288" x2="288" y2="736"/>
+</svg>

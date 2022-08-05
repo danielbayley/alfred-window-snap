@@ -1,0 +1,12 @@
+[core]
+  hooksPath = .github/hooks
+
+[filter "plist"]
+  smudge = brew alfred smudge
+  clean  = brew alfred clean
+  required = true
+
+[diff "zip"]
+  binary = true
+  textconv = unzip -ca
+  cachetextconv = true

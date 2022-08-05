@@ -1,0 +1,3 @@
+*.plist filter=plist diff=plist merge=plist linguist-language=YAML
+
+*.alfredworkflow diff=zip
